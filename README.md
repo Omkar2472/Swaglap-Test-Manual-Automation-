@@ -79,8 +79,8 @@ Operating systems:-Windows, macOS, iOS, Android
 Network connectivity:-Wi-Fi, cellular, or wired connections. 
 
 # Installation
-<li>https://www.java.com/en/download/</li>
-<li>Download Selenium WebDriver from https://www.seleniumhq.org/download/ Need to add Selenuim jar files to class path!</li>
-</li>https://www.eclipse.org/downloads/</li>
-<li>Extent Report library can be downloaded from https://mvnrepository.com/artifact/com.aventstack/extentreports</li>
-<li>https://chromedriver.chromium.org/</li>
+<li>JAVA :-https://www.java.com/en/download/</li>
+<li>Selenium :-https://www.seleniumhq.org/download/ Need to add Selenuim jar files to class path!</li>
+</li>Eclipse :-https://www.eclipse.org/downloads/</li>
+<li>Extent Report library :-https://mvnrepository.com/artifact/com.aventstack/extentreports</li>
+<li>Chrome Driver :-https://chromedriver.chromium.org/</li>

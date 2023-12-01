@@ -40,21 +40,21 @@ This test automation project for Swag Labs utilizes a variety of tools and techn
 <li>Java: The primary programming language used for writing the test automation code.</li>
 <li>Frameworks implemented: Hybrid Framework of type Page Object Model.</li>
 <li>Selenium: A popular open-source framework for automating web browser interactions and testing.</li>
-<li>ChromeDriver: The WebDriver implementation for Google Chrome, enabling Selenium to automate Chrome browser actions.</li>
+<li>ChromeDriver: The WebDriver implementation for Google Chrome, enabling Selenium to automate Chrome   browser actions.</li>
 <li>Reporting Tool: Extent Reports</li>
-<li>TestNG: Testing framework for the Java programming language designed to simplify a broad range of testing needs, from unit testing to integration testing.</li>
+<li>TestNG: Testing framework for the Java programming language designed to simplify a broad range of testing   needs, from unit testing to integration testing.</li>
 <li>External data source to store test data: MS Excel using APACHE POI libraries. </li>
 <li>Eclipse IDE: An integrated development environment for Java that provides a workspace for coding, testing, and debugging.</li>
-
+<br>
 These technologies are combined to create an effective testing framework that automates test cases, performs comparisons between expected and actual outcomes, and generates detailed test reports.
 
 
 # Testing Approach
 <li> Manual Testing </li>
-Manual testing will be conducted for functional testing, usability testing, and exploratory testing.
+     Manual testing will be conducted for functional testing, usability testing, and exploratory testing.
 
 <li> Automated Testing </li>
-Automated testing tools will be used for regression testing, performance testing, and repetitive tasks.
+     Automated testing tools will be used for regression testing, performance testing, and repetitive tasks.
 
 #  Testing Tasks
 </li> Functional Testing</li>
@@ -75,7 +75,7 @@ Evaluate the website's usability.
 Different devices:-(PC, laptop, tablet)
 <li>Software</li>
 Various browsers:-Chrome, Firefox, Safari, Edge
-Operating systems:-Windows, macOS, iOS, Android
+Operating systems:-Windows, macOS, iOS, Android <br>
 Network connectivity:-Wi-Fi, cellular, or wired connections. 
 
 # Installation

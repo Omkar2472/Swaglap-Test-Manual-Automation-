@@ -42,7 +42,7 @@ This test automation project for Swag Labs utilizes a variety of tools and techn
 <li>Selenium: A popular open-source framework for automating web browser interactions and testing.</li>
 <li>ChromeDriver: The WebDriver implementation for Google Chrome, enabling Selenium to automate Chrome   browser actions.</li>
 <li>Reporting Tool: Extent Reports</li>
-<li>TestNG: Testing framework for the Java programming language designed to simplify a broad range of testing   needs, from unit testing to integration testing.</li>
+<li>TestNG: Testing framework for the Java programming language designed to simplify a broad range of testing <\t> needs, from unit testing to integration testing.</li>
 <li>External data source to store test data: MS Excel using APACHE POI libraries. </li>
 <li>Eclipse IDE: An integrated development environment for Java that provides a workspace for coding, testing, and debugging.</li>
 <br>

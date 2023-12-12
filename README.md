@@ -50,10 +50,10 @@ These technologies are combined to create an effective testing framework that au
 
 # Testing Approach
 <li> Manual Testing </li>
-     Manual testing will be conducted for functional testing, usability testing, and exploratory testing.
+    <dd> - Manual testing will be conducted for functional testing, usability testing, and exploratory testing.</dd>
 
 <li> Automated Testing </li>
-     Automated testing tools will be used for regression testing, performance testing, and repetitive tasks.
+    <dd> - Automated testing tools will be used for regression testing, performance testing, and repetitive tasks.</dd>
 
 #  Testing Tasks
 </li> Functional Testing</li>
@@ -71,7 +71,7 @@ Evaluate the website's usability.
 
 # Test Environment
 <li>Hardware</li>
-Different devices:-(PC, laptop, tablet)
+<dd> - Different devices:-(PC, laptop, tablet)</dd>
 <li>Software</li>
 <dd> - Various browsers:-Chrome, Firefox, Safari, Edge<br> </dd>
 <dd> - Operating systems:-Windows, macOS, iOS, Android <br> </dd>

@@ -57,11 +57,11 @@ These technologies are combined to create an effective testing framework that au
 
 #  Testing Tasks
 <li> Functional Testing</li>
-Verify user registration and login.<br>
-Test product selection and addition to the shopping cart.<br>
-Validate the checkout process.<br>
-Test user account management features.<br>
-Verify the search functionality.<br>
+<dd> - Verify user registration and login.<br></dd>
+<dd> - Test product selection and addition to the shopping cart.<br></dd>
+<dd> - Validate the checkout process.<br></dd>
+<dd> - Test user account management features.<br></dd>
+<dd> - Verify the search functionality.<br></dd>
 
 <li>Non-functional Testing </li>
 Conduct security testing to identify vulnerabilities.<br>

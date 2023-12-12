@@ -73,6 +73,7 @@ Evaluate the website's usability.
 <li>Hardware</li>
 Different devices:-(PC, laptop, tablet)
 <li>Software</li>
+<dd>- black hot drink</dd>
 Various browsers:-Chrome, Firefox, Safari, Edge<br>
 Operating systems:-Windows, macOS, iOS, Android <br>
 Network connectivity:-Wi-Fi, cellular, or wired connections. 

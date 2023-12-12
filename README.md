@@ -74,8 +74,8 @@ Evaluate the website's usability.
 Different devices:-(PC, laptop, tablet)
 <li>Software</li>
 <dd> - Various browsers:-Chrome, Firefox, Safari, Edge<br> </dd>
-Operating systems:-Windows, macOS, iOS, Android <br>
-Network connectivity:-Wi-Fi, cellular, or wired connections. 
+<dd> - Operating systems:-Windows, macOS, iOS, Android <br> </dd>
+<dd> - Network connectivity:-Wi-Fi, cellular, or wired connections.</dd> 
 
 # Installation
 <li>JAVA :-https://www.java.com/en/download/</li>

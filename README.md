@@ -5,7 +5,7 @@
 📢 This repository contains an automated testing project for Swag Labs using Java,POM, Selenium, TestNG, ChromeDriver, Extent Report, Ms excel, and Eclipse IDE. The tests are designed to cover various scenarios on the Sauce Demo website (https://www.saucedemo.com).
 
 # Table of Contents
-<li>[Introduction]</li>
+<li>[Introduction](https://Introduction.github.com/)</li>
 <li>Scope</li>
 <li>Features</li>
 <li>Tools and Technologies Used</li>
@@ -13,8 +13,7 @@
 <li>Testing Tasks</li>
 <li>Installation</li>
 
-
-[# Introduction ](https://pages.github.com/)
+# Introduction
 Test automation is the process of using automation tools to maintain test data, execute tests, and analyze test results to improve software quality. Automated testing is also called test automation or automated QA testing. When executed well, it relieves much of the manual requirements of the testing lifecycle.
 
 In here we are going to test SWAG Labs (Sauce Demo - https://www.saucedemo.com). We are going to use tools and frameworks like Selenium, POM (Page Object Model) with Selenium with Java for the automation. This project focuses on automating tests for the Swag Labs website using Hybrid Framework of type Page Object Model. and Selenium.

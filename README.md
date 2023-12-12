@@ -56,18 +56,18 @@ These technologies are combined to create an effective testing framework that au
     <dd> - Automated testing tools will be used for regression testing, performance testing, and repetitive tasks.</dd>
 
 #  Testing Tasks
-</li> Functional Testing</li><br>
+<li> Functional Testing</li><br>
 Verify user registration and login.<br>
 Test product selection and addition to the shopping cart.<br>
 Validate the checkout process.<br>
 Test user account management features.<br>
 Verify the search functionality.<br>
 
-</li>Non-functional Testing </li>
-Conduct security testing to identify vulnerabilities.
-Perform performance testing under various load conditions.
-Ensure compatibility across different browsers and devices.
-Evaluate the website's usability.
+<li>Non-functional Testing </li><br>
+Conduct security testing to identify vulnerabilities.<br>
+Perform performance testing under various load conditions.<br>
+Ensure compatibility across different browsers and devices.<br>
+Evaluate the website's usability.<br>
 
 # Test Environment
 <li>Hardware</li>

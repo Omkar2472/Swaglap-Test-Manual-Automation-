@@ -64,10 +64,10 @@ These technologies are combined to create an effective testing framework that au
 <dd> - Verify the search functionality.<br></dd>
 
 <li>Non-functional Testing </li>
-Conduct security testing to identify vulnerabilities.<br>
-Perform performance testing under various load conditions.<br>
-Ensure compatibility across different browsers and devices.<br>
-Evaluate the website's usability.<br>
+<dd> - Conduct security testing to identify vulnerabilities.<br></dd>
+<dd> - Perform performance testing under various load conditions.<br></dd>
+<dd> - Ensure compatibility across different browsers and devices.<br></dd>
+<dd> - valuate the website's usability.<br></dd>
 
 # Test Environment
 <li>Hardware</li>

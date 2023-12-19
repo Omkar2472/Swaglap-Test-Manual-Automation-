@@ -56,26 +56,21 @@ import SwaglapProject.SwaglapUtility;
 	    		  }
 	    		  
 	    		  Reporter.log("Actual List of Products: " + actuallist1);
-		      		
-		      		
-		      		for (int a = 0; a < explistofproducts.size() && a < actuallist1.size(); a++)
+		      	  for (int a = 0; a < explistofproducts.size() && a < actuallist1.size(); a++)
 		      		{
 		      		    compare(explistofproducts.get(a), actuallist1.get(a),
 		      		            "Product Display Successfully - " + actuallist1.get(a),
 		      		            "Product NOT Display Successfully -" + actuallist1.get(a));
 		      		}
-
-		      		actuallist1.clear();
+			        actuallist1.clear();
 		      		elementfinder(objhomerepo.menu).click();
 		      		elementfinder(objhomerepo.logout).click();
 		      	    }
 		         }
-	   
-			   
-			     public  void close()
-			      {
-			      	flushoff();
-			      }
+	                  public  void close()
+			  {
+			      flushoff();
+			  }
 	      
 }
 	   

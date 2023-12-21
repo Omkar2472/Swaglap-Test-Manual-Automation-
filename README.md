@@ -84,4 +84,4 @@ These technologies are combined to create an effective testing framework that au
 <li>Extent Report library :-https://mvnrepository.com/artifact/com.aventstack/extentreports</li>
 <li>Chrome Driver :-https://chromedriver.chromium.org/</li>
 
-![Alt text](Swaglap-Test-Manual-Automation-\Swaglaploginpagess.png)
+![Swaglaploginpagess](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/1583e8a7-2136-4c75-a92f-63be059696d3)

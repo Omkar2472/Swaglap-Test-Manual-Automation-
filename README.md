@@ -82,6 +82,27 @@ These technologies are combined to create an effective testing framework that au
 <li>Selenium :-https://www.seleniumhq.org/download/ (Need to add Selenuim jar files to class path!)</li>
 <li>Eclipse :-https://www.eclipse.org/downloads/</li>
 <li>Extent Report library :-https://mvnrepository.com/artifact/com.aventstack/extentreports</li>
-<li>Chrome Driver :-https://chromedriver.chromium.org/</li>
+<li>Chrome Driver :-https://chromedriver.chromium.org/</li> <br>
 
-![Swaglaploginpagess](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/1583e8a7-2136-4c75-a92f-63be059696d3)
+# Login Page
+![Screenshot_1](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/3dedad11-661d-4f10-83e2-b7b64d1a752e) <br>
+
+# Product Page
+![Screenshot_2](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/77153626-e0dc-4e01-a808-63c345e83887) <br>
+![Screenshot_3](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/82896af1-0842-41ec-aa57-a2ead02b5dad) <br>
+
+# Your Cart Page
+![Screenshot_4](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/f06e35d3-55cf-4dab-adab-24acded0a19d) <br>
+
+# Checkout: Your Information Page
+![Screenshot_5](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/08cb220b-c908-4059-9dd7-57ad49676c06) <br>
+
+# Checkout: Overview Page
+![Screenshot_6](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/e18006f2-f000-4958-baf1-3efcd0bdd652) <br>
+
+# Checkout: Complete Page
+![Screenshot_7](https://github.com/Omkar2472/Swaglap-Test-Manual-Automation-/assets/148191564/1dc8342c-935d-4aef-807d-6f98743529e0) 
+
+
+
+
